@@ -1,0 +1,47 @@
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\bin\Debug\IHBrisbane-ALS Inventory Manager.exe.config
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\bin\Debug\IHBrisbane-ALS Inventory Manager.exe
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\bin\Debug\IHBrisbane-ALS Inventory Manager.pdb
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.csproj.ResolveComReference.cache
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Main.resources
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.CategoryForms.AddCategoryForm.resources
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.CategoryForms.DeleteCategoryForm.resources
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.CheckForms.CheckoutForm.resources
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.Excel.DateSelector.resources
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.Excel.ExcelData.resources
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.ItemForms.AddItemForm.resources
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.ItemForms.UpdateItemForm.resources
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.UserForm.AddUser.resources
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.UserForm.LoginForm.resources
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Properties.Resources.resources
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.csproj.GenerateResource.Cache
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.exe
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.pdb
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.csprojResolveAssemblyReference.cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Inventory Manger\SourceCode\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\bin\Debug\IHBrisbane-ALS Inventory Manager.exe.config
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Inventory Manger\SourceCode\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.csproj.ResolveComReference.cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Inventory Manger\SourceCode\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Inventory Manger\SourceCode\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.pdb
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Inventory Manger\SourceCode\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.csprojResolveAssemblyReference.cache
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\bin\Debug\IHBrisbane-ALS Inventory Manager.exe.config
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.csproj.ResolveComReference.cache
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\bin\Debug\IHBrisbane-ALS Inventory Manager.exe
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\bin\Debug\IHBrisbane-ALS Inventory Manager.pdb
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.csprojResolveAssemblyReference.cache
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Main.resources
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.CategoryForms.AddCategoryForm.resources
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.CategoryForms.DeleteCategoryForm.resources
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.CheckForms.CheckoutForm.resources
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.Excel.DateSelector.resources
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.Excel.ExcelData.resources
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.ItemForms.AddItemForm.resources
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.ItemForms.UpdateItemForm.resources
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.UserForm.AddUser.resources
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Forms.Sub_Form.UserForm.LoginForm.resources
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane_ALS_Inventory_Manager.Properties.Resources.resources
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.csproj.GenerateResource.Cache
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.exe
+C:\Users\IT Support\Cookies\Desktop\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.pdb
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Developed Software\Inventory Manger\SourceCode\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\bin\Debug\IHBrisbane-ALS Inventory Manager.exe.config
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Developed Software\Inventory Manger\SourceCode\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.csproj.ResolveComReference.cache
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Developed Software\Inventory Manger\SourceCode\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.exe
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Developed Software\Inventory Manger\SourceCode\IHBrisbane-ALS Inventory Manager\IHBrisbane-ALS Inventory Manager\obj\Debug\IHBrisbane-ALS Inventory Manager.pdb

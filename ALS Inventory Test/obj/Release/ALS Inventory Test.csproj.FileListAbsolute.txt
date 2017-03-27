@@ -1,0 +1,8 @@
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\ALS Inventory Test\bin\Release\ALS Inventory Test.dll
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\ALS Inventory Test\bin\Release\ALS Inventory Test.pdb
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\ALS Inventory Test\bin\Release\IHBrisbane-ALS Inventory Manager.exe
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\ALS Inventory Test\bin\Release\IHBrisbane-ALS Inventory Manager.pdb
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\ALS Inventory Test\obj\Release\ALS Inventory Test.csprojResolveAssemblyReference.cache
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\ALS Inventory Test\obj\Release\ALS Inventory Test.csproj.ResolveComReference.cache
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\ALS Inventory Test\obj\Release\ALS Inventory Test.dll
+C:\Users\St\documents\visual studio 2013\Projects\IHBrisbane-ALS Inventory Manager\ALS Inventory Test\obj\Release\ALS Inventory Test.pdb
